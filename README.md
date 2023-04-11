@@ -5,4 +5,5 @@ Tempra Otero
 Tubaro
 Erick Santiago Diaz Saavedra
 Arias Valbuena
+Guillermo Santa Cruz
 
